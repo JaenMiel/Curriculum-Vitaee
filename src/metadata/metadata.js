@@ -1,43 +1,33 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Jaen Miel S. Jabson',
+  title: 'Student and Writer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
-                </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Residence': '<a href="https://www.google.com/maps/place/Somerset+Phase+14/@14.374602,120.9052032,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x3397d3633521690d:0x890f6dba3c848a08!2sLancaster+New+City!8m2!3d14.3914971!4d120.9003833!3m4!1s0x3397d35820eb477f:0x287a7fc3ce3fcce2!8m2!3d14.3745968!4d120.9073972"><i class="fa fa-home fact-icon"></i>Cavite</a>',
+    'Twitter': `<a href="https://twitter.com/LeimNeaj"><i class="fa-brands fa-twitter fact-icon"></i>LeimNeaj</a>`,
+    'Email': '<a href="jaen.miel@gmail.com"><i class="fa fa-envelope fact-icon"></i>jaen.miel@gmail.com</a>'
   },
   skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
-    ['Erotic', 75],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 75],
-    ['Literature', 100],
-    ['Influence', 100],
+   ['Communication', 80],
+    ['Management', 65],
+    ['Finance and Reporting',70],
+    ['Writing', 70],
+    ['Microsoft App Knowledge', 70],
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      title: 'MARKETING ASSISTANT',
+      period: '2019-2020',
+      skills: ['Management', 'Finance and Reporting', 'Microsoft App Knowledge'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Primarily tasked with market research and is designated to report findings and provide plausibleactions/plans.
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      title: 'SALES ASSISTANT',
+      period: 'February 9 - 11, 2018',
+      skills: ['Finance and Reporting', 'Communication'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+Volunteer under the sales department and manned the information desk. Duties were customer management, sales, and queries
 `
     },
     {
