@@ -30,14 +30,6 @@ Primarily tasked with market research and is designated to report findings and p
 Volunteer under the sales department and manned the information desk. Duties were customer management, sales, and queries
 `
     },
-    {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
-      contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
-`
-    }
   ],
   experience: [
     {
